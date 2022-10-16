@@ -9,3 +9,11 @@ https://ops-sql-data.herokuapp.com{Endpoint}
 | Demand Node   | /api/Demand_node_dataset  |
 | Parameters    | /api/operational_dataset  |
 | time-based-ops| /api/ops_dataset          |
+
+
+# Demand Nodes
+These are the demands expected/required to be satisfied by the systems. Demand accpets a flow with a quality that is less than a predetermined maximum quality.
+# Pressure Nodes
+Pressure expected/required to be satisfied by the system
+# Flow Links
+Components dedicated to high purity and corrossine working fluid.
