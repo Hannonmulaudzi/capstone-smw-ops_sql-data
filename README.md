@@ -1,6 +1,6 @@
 # capstone-smw-parameters-30minutes-interval-timebased_sql-data-set
 https://ops-sql-data.herokuapp.com{Endpoint}
-*E.g https://ops-sql-data.herokuapp.com/api/Pressure_Node_dataset
+*E.g. https://ops-sql-data.herokuapp.com/api/Pressure_Node_dataset
 
 |   Parameters  |         Endpoint          |
 | ------------- | --------------------------|
